@@ -16,7 +16,7 @@
 
   User can clone repo and run locally or utilize Heroku link 
   
-  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://https://pwa-budget-tracker36.herokuapp.com//)
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://pwa-budget-tracker36.herokuapp.com/)
 
   ## Usage
 
